@@ -1,0 +1,12 @@
+{
+  "name": "learn-express",
+  "url": "http://github.com/seancrater/learn-express",
+  "email": "sean@seancrater.com",
+  "license": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
